@@ -1,0 +1,10 @@
+# Baseball Dugout - Player Analysis Agent
+
+# LangChain + MCP
+langchain-mcp-adapters
+langchain-openai
+langgraph
+
+# Environment
+python-dotenv
+
