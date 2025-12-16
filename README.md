@@ -11,7 +11,7 @@ A coach needs to evaluate a player before a trade deadline. Instead of digging t
 
 The same pattern extends to any workflow: analyzing team schedules via Google Calendar, comparing players before draft picks, generating weekly performance summaries—AI agents that integrate with your existing tools.
 
-![Baseball Dugout](images/console.png)
+![Baseball Dugout](images/agent.png)
 
 ## How It Works
 
